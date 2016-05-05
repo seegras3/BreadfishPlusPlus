@@ -27,7 +27,7 @@ export default class Module extends DefaultModule {
             "key": "option.global.extension.reportReasons.thread",
             "type": "invis",
             default: [{
-                key: "Anschuldigung ohne Beweise",
+                key: "Rufmord",
                 value: "Dieser Beitrag erhebt folgende Anschuldigungen, ohne diese zu beweisen: "
             }, {
                 key: "Beleidigung",
